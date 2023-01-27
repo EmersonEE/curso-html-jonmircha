@@ -1,0 +1,29 @@
+html {
+  /* para hacer que los saltos en la misma pagina tenga movimiento de scroll */
+  scroll-behavior: smooth;
+}
+
+h1 {
+  color: navy;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+iframe {
+  width: 80%;
+  height: 400px;
+}
+.prueba{
+  color: aqua;
+}
+.deextensiones{
+  background-color: blueviolet;
+}
